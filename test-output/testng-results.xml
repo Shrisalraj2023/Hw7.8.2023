@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10032" started-at="2023-06-25T17:24:47Z" finished-at="2023-06-25T17:24:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10032" started-at="2023-06-25T17:24:47Z" finished-at="2023-06-25T17:24:58Z">
+      <class name="variousConcepts.TestClass">
+        <test-method status="PASS" signature="readConfig()[pri:0, instance:variousConcepts.TestClass@4ec6a292]" name="readConfig" is-config="true" duration-ms="4" started-at="2023-06-25T12:24:47Z" finished-at="2023-06-25T12:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- readConfig -->
+        <test-method status="PASS" signature="init()[pri:0, instance:variousConcepts.TestClass@4ec6a292]" name="init" is-config="true" duration-ms="4908" started-at="2023-06-25T12:24:48Z" finished-at="2023-06-25T12:24:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="addCustomer()[pri:0, instance:variousConcepts.TestClass@4ec6a292]" name="addCustomer" duration-ms="5115" started-at="2023-06-25T12:24:52Z" finished-at="2023-06-25T12:24:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addCustomer -->
+      </class> <!-- variousConcepts.TestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
